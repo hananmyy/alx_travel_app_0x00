@@ -5,7 +5,7 @@
 ##  Objective  
 Define database models, create serializers for API data representation, and implement a management command to seed the database.
 
-## 🔹 Duplicate Project  
+##  Duplicate Project  
 The original project `alx_travel_app` was duplicated into `alx_travel_app_0x00` for implementing data modeling and seeding.
 
 ##  Models  
